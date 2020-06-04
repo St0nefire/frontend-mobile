@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Stonefire</string>
+    <string name="username">Username</string>
+    <string name="location">Lokasi</string>
+    <string name="search">Cari</string>
+    <string name="restaurant">Restoran</string>
+    <string name="title_activity_act_faq">ActFAQ</string>
+</resources>
